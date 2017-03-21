@@ -1,5 +1,7 @@
 Q 6. What git command would you use to move between branches?
 
+git checkout (the name of the branch you want to move to)
+
 
 Q 7. Explain why pushing a branch to the remote repository before making a commit would cause problems?
 
