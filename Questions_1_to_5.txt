@@ -1,15 +1,20 @@
 Q 1. What are Pull Requests used for?
 Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
+
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
 GitHUb & GitHub Desktop
+
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
 The local repository refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released. Remote repositories refer to any other type of repository, accessed by a variety of protocols such as file:// and http://.
 
 local repo is more like repo that you downloaded to your own working space or desktop and remote is the one where everyone can access and see the changes 
 
+
+
 Q 4. Where would you find a local repo?
+The Local Repository is the .git/ subdirectory inside the Working Directory.
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
