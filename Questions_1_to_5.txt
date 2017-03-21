@@ -14,7 +14,7 @@ local repo is more like repo that you downloaded to your own working space or de
 
 
 Q 4. Where would you find a local repo?
-The Local Repository is the .git/ subdirectory inside the Working Directory.
+
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
