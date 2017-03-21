@@ -19,4 +19,5 @@ The Local Repository is the .git/ subdirectory inside the Working Directory.
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
+YES
 
